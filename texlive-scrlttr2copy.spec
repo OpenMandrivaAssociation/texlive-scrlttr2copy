@@ -1,6 +1,6 @@
 Name:		texlive-scrlttr2copy
 Version:	56733
-Release:	1
+Release:	2
 Summary:	A letter class option file for the automatic creation of copies
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scrlttr2copy
