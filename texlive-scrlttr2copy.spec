@@ -3,7 +3,7 @@ Version:	56733
 Release:	2
 Summary:	A letter class option file for the automatic creation of copies
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scrlttr2copy
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/scrlttr2copy
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scrlttr2copy.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scrlttr2copy.doc.r%{version}.tar.xz
